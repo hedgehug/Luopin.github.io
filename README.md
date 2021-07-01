@@ -17,7 +17,7 @@ Definitely computational biology and bioinformatics!
 
 ### Publication
 
-- [**Host-virus chimeric events in SARS-CoV2 infected cells are infrequent and artifactual**](https://journals.asm.org/doi/abs/10.1128/JVI.00294-21). Published in May 2021.
+- **Host-virus chimeric events in SARS-CoV2 infected cells are infrequent and artifactual** [link](https://journals.asm.org/doi/abs/10.1128/JVI.00294-21). Published in May 2021.
 
 **Bold** and _Italic_ and `Code` text
 
