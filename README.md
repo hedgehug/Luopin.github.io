@@ -4,18 +4,12 @@ I am Luopin Wang. Welcome to my pages!
 
 ### Education
 
-- PhD: Computer Science, Purdue University, supervised by [Dr.Majid Kazemian](http://kazemianlab.com/). 2018- current.
+- PhD: Computer Science, Purdue University, supervised by [Dr.Majid Kazemian](http://kazemianlab.com/). 2018-current.
 - B.S.Eng: Software Engineering, Wuhan University. 2014-2018.
 
 ### Reseach of Interest
 
 Definitely computational biology and bioinformatics!
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
