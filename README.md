@@ -18,7 +18,8 @@ Definitely computational biology and bioinformatics!
 ### Publication
 
 - **Host-virus chimeric events in SARS-CoV2 infected cells are infrequent and artifactual** [link](https://journals.asm.org/doi/abs/10.1128/JVI.00294-21). Published in May 2021.
-
+- **SARS-CoV-2 drives JAK1/2-dependent local complement hyperactivation** [link](https://immunology.sciencemag.org/content/6/58/eabg0833.abstract). Published in Apr 2021.
+- **CDK8 Fine-Tunes IL-6 Transcriptional Activities by Limiting STAT3 Resident Time at the Gene Loci** [link](https://www.sciencedirect.com/science/article/pii/S2211124720315345). Published in Dec 2020.
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
