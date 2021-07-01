@@ -1,15 +1,11 @@
-## Welcome to My Github Pages!
+## Welcome to My Zone!
 
-You can use the [editor on GitHub](https://github.com/hedgehug/Luopin.github.io/edit/docs/README.md) to maintain and preview the content for your website in Markdown files.
+I am Luopin Wang. Welcome to my pages!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+- PhD: Computer Science, Purdue University, supervised by [Dr.Majid Kazemian](http://kazemianlab.com/). 2018- current.
+- B.S.Eng: Software Engineering, Wuhan University. 2014-2018.
 
 # Header 1
 ## Header 2
