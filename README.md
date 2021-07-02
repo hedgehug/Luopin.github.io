@@ -29,6 +29,7 @@ Definitely computational biology and bioinformatics!
 - 
 [Link](url) and ![Image](src)
 
+My [Google Scholar](https://scholar.google.com/citations?user=RFIKAcEAAAAJ&hl=en) page.
 
 ### Something other than research
 
